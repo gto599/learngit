@@ -4,3 +4,4 @@ Git is a open source software.
 Creating a new branch with quick AND simple.
 diff test.
 merge whit no-ff.
+dev edited second.
